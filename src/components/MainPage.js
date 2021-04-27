@@ -130,7 +130,7 @@ const MainPage = () => {
         <div>
             <div className="mt-4">
                 <button className="btn btn-success ms-2" onClick={randomArray}> Create Array</button>
-                <button className="btn btn-success ms-2" onClick={randomArray}> Merge Sorts</button>
+                {/* <button className="btn btn-success ms-2" onClick={randomArray}> Merge Sorts</button> */}
                 <button className="btn btn-success ms-2" onClick={doQuickSort}> Quick Sort</button>
                 <button className="btn btn-success ms-2" onClick={doInsertionSort}> Insertion Sort</button>
                 <button className="btn btn-success ms-2" onClick={doBubbleSort}>Bubble Sort</button>
