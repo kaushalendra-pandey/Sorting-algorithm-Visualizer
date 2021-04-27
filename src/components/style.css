@@ -1,0 +1,12 @@
+.num{
+    min-width: 8px;
+    margin-left: 4px;
+    border-style: solid;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 1px;
+    background-color: rgb(95, 95, 9)
+    
+}
+
+
